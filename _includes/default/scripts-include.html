@@ -5,8 +5,8 @@
 {%-endcomment-%}
 
 {% if site.data.conf.main.use_cdn_resources_if_available -%}
-  <script src="../music/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-  <script src="../music/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <script src="{{ site.baseurl }}/music/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="{{ site.baseurl }}/music/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 {%- else %}
   <script src="{{ site.baseurl }}/assets/js/jquery-3.6.0.min.js"></script>
   <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
@@ -15,7 +15,7 @@
 {%- if site.data.conf.posts.post_table_of_contents == true and page.layout == 'post' -%}
   {%- comment -%} this must be after bootstrap.min.js {%- endcomment -%}
   {% if site.data.conf.main.use_cdn_resources_if_available -%}
-    <script src="https://cdn.jsdelivr.net/gh/afeld/bootstrap-toc@v0.4.1/dist/bootstrap-toc.min.js"></script>
+    <script src="{{ site.baseurl }}/music/bootstrap-toc.min.js"></script>
   {%- else %}
     <script src="{{ site.baseurl }}/assets/js/bootstrap-toc.min.js"></script>
   {%- endif %}
@@ -27,7 +27,7 @@
   {%- if page.image_viewer_on == true or site.data.conf.main.image_viewer_posts == true and page.layout == 'post' -%}
     {%-if site.data.conf.main.image_viewer_error_add_path -%}{%- assign err_img_path = '<br><br>%url%' -%} {%-endif-%}
     {% if site.data.conf.main.use_cdn_resources_if_available -%}
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+      <script src="{{ site.baseurl }}/music/jquery.magnific-popup.min.js"></script>
     {%- else %}
       <script src="{{ site.baseurl }}/assets/js/jquery.magnific-popup.min.js"></script>
     {%- endif %}
@@ -62,7 +62,7 @@
 {%- if site.data.conf.main.image_lazy_loader == true -%}
   {%- if page.image_lazy_loader_on == true or site.data.conf.main.image_lazy_loader_posts == true and page.layout == 'post' -%}
     {% if site.data.conf.main.use_cdn_resources_if_available -%}
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/lozad.js/1.16.0/lozad.min.js"></script>
+      <script src="{{ site.baseurl }}/music/lozad.min.js"></script>
     {%- else %}
       <script src="{{ site.baseurl }}/assets/js/lozad.min.js"></script>
     {%- endif %}

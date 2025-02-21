@@ -5,8 +5,8 @@
 {%-endcomment-%}
 
 {% if site.data.conf.main.use_cdn_resources_if_available -%}
-  <link rel="stylesheet" href="../music/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/music/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="{{ site.baseurl }}/music/font-awesome.min.css">
 {%- else %}
   <link href="{{ site.baseurl }}/assets/css/bootstrap.min.css" rel="stylesheet">
   <link href="{{ site.baseurl }}/assets/css/font-awesome.min.css" rel="stylesheet">
@@ -16,7 +16,7 @@
 
 {%- if site.data.conf.posts.post_table_of_contents and page.layout == "post"-%}
   {% if site.data.conf.main.use_cdn_resources_if_available -%}
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/afeld/bootstrap-toc@v0.4.1/dist/bootstrap-toc.min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/music/bootstrap-toc.min.css">
   {%- else %}
     <link href="{{ site.baseurl }}/assets/css/bootstrap-toc.min.css" rel="stylesheet">
   {%- endif %}
@@ -31,7 +31,7 @@
 
 {%- if img_viewer == true -%}
   {% if site.data.conf.main.use_cdn_resources_if_available -%}
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/music/magnific-popup.css">
   {%- else %}
     <link href="{{ site.baseurl }}/assets/css/magnific-popup.css" rel="stylesheet">
   {%- endif %}
