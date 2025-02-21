@@ -1,14 +1,14 @@
 ###########################################################
 # Owner's Personal Information
 ###########################################################
-# This is 听松阁 name
+# This is your brand name
 brand: "听松阁"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Kyle Smith"
+name: "Your Name"
 
 # home page top header texts
 home:
