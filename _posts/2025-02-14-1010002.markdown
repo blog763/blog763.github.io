@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_Mr_Green_Jekyll_Theme
-title: ALin-给我一个理由忘记
+title: ALin-有一种悲伤
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -40,7 +40,7 @@ date: 2025-02-14 12:32:10 +0900
 <html>
 <head>
 <meta charset="UTF-8">
-<title>ALin-给我一个理由忘记</title>
+<title>ALin-有一种悲伤</title>
 <link rel='stylesheet' href='../music/css/jquery-ui.css'>
 <style>
 
@@ -321,13 +321,13 @@ body { background: url(../music/css/006.jpg) }
     </div>
 	<div><br><br><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<audio controls autoplay loop>
-        <source src="https://vercel.rryyz.com/free163person/音乐视听/精选/ALin-给我一个理由忘记.mp3" type="audio/mpeg">
+        <source src="https://vercel.rryyz.com/free163person/音乐视听/精选/ALin-有一种悲伤.mp3" type="audio/mpeg">
     </audio>
 	</div>
     <div class="info">
       <i><span name="current">0:00</span> / <span name="duration">0:00</span></i>
       <label>精选</label>
-      <small>ALin-给我一个理由忘记</small>
+      <small>ALin-有一种悲伤</small>
 	  
     </div>
   </div>
