@@ -13,7 +13,6 @@ source "https://rubygems.org"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # all supported plugins by GitHub Pages are included in "github-pages". (GitHub Pages doesn't support 3rd party plugins)
 gem "github-pages", "~> 226"
-gem 'github-pages', group: :jekyll_plugins
 gem 'jekyll', '~> 4.0'
 group :jekyll_plugins do
     gem "jekyll-feed"
