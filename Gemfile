@@ -14,6 +14,7 @@ source "https://rubygems.org"
 # all supported plugins by GitHub Pages are included in "github-pages". (GitHub Pages doesn't support 3rd party plugins)
 gem "github-pages", "~> 226"
 gem 'jekyll', '~> 4.0', group: :jekyll_plugins
+gem 'faraday-retry'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
