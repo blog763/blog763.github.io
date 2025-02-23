@@ -1,5 +1,8 @@
 source "https://rubygems.org"
 
+
+gem install bundler
+
 # if you are using other than GitHub Pages,
 gem "jekyll", "~> 4.0"
 
