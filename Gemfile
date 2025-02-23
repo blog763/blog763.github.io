@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
-
-gem install bundler
+gem "bundler", "~> 2.0.0"
 
 # if you are using other than GitHub Pages,
 gem "jekyll", "~> 4.0"
@@ -17,7 +16,7 @@ gem "jekyll-paginate", "~> 1.1.0"
 # all supported plugins by GitHub Pages are included in "github-pages". (GitHub Pages doesn't support 3rd party plugins)
 gem "github-pages", "~> 232"
 
-gem 'faraday-retry'
+gem "faraday-retry", "~> 2.1.0"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
