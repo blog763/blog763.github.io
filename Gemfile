@@ -3,6 +3,8 @@ source "https://rubygems.org"
 # if you are using other than GitHub Pages,
 gem "jekyll", "~> 4.4.1", group: :jekyll_plugins
 
+gem "faraday-retry", "~> 2.0.0"
+
 # If you have any plugins, put them here!
 # group :jekyll_plugins do
 #   gem "jekyll-paginate", "~> 1.1.0"
