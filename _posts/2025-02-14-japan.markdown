@@ -1,15 +1,15 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_Mr_Green_Jekyll_Theme
-title: BackstreetBoys-As_Long_As_You_Love_M
+title: 日本音乐
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
 author: Mr. Green's Workshop
 # multiple category is not supported
-category: 精选
+category: 音乐
 # multiple tag entries are possible
-tags: [精选]
+tags: [音乐]
 # thumbnail image for post
 img: ":post_pic1.jpg"
 # disable comments on this page
@@ -36,3 +36,32 @@ date: 2025-02-14 12:32:10 +0900
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
+<li><h1 class="time-line-title"><a href="../music/japan/1050001.html" target="_blank">azu-angel</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050002.html" target="_blank">juju-この夜を止めてよ</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050003.html" target="_blank">rania-DrFeelGood</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050004.html" target="_blank">滨崎步-A_Song_For_Xx</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050005.html" target="_blank">滨崎步-Blue_Bird</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050006.html" target="_blank">滨崎步-depend_on_you</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050007.html" target="_blank">滨崎步-fly_high</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050008.html" target="_blank">滨崎步-M</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050009.html" target="_blank">滨崎步-To_Be</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050010.html" target="_blank">初音未来-甩葱歌</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050011.html" target="_blank">川嶋あい-大丈夫だよ</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050012.html" target="_blank">大冢爱-プラネタリウム</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050013.html" target="_blank">大冢爱-桃ノ花ビラ</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050014.html" target="_blank">谷村新司-いい日旅立ち</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050015.html" target="_blank">谷村新司-カノン</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050016.html" target="_blank">谷村新司-昂一すばゐ</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050017.html" target="_blank">谷村新司-风姿花传</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050018.html" target="_blank">谷村新司-君の歌</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050019.html" target="_blank">谷村新司-睡莲</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050020.html" target="_blank">谷村新司-忘れないで</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050021.html" target="_blank">谷村新司-星</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050022.html" target="_blank">日本歌曲星の在り処</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050023.html" target="_blank">日本歌曲-漠然の莹</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050024.html" target="_blank">少女时代-mrtaxi</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050025.html" target="_blank">少女时代-theboys</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050026.html" target="_blank">宇多田光-First_Love</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050027.html" target="_blank">中岛美嘉-雪華</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050028.html" target="_blank">中島みゆき-容易受伤的女人原曲</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
+<li><h1 class="time-line-title"><a href="../music/japan/1050029.html" target="_blank">宗次郎-故乡的原风景</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">日本音乐</span></div></li>
