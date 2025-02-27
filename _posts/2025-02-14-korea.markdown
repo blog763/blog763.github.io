@@ -36,7 +36,7 @@ date: 2025-02-14 12:32:10 +0900
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-  <ol class="time-line">
+<ol class="time-line">
     <hr />
     <!--文件目录 -->
 <li><h1 class="time-line-title"><a href="../music/korea/1040001.html" target="_blank">BoA-AmazingKiss</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">韩国音乐</span></div></li>
@@ -105,13 +105,7 @@ date: 2025-02-14 12:32:10 +0900
 <li><h1 class="time-line-title"><a href="../music/korea/1040064.html" target="_blank">我的野蛮女友-我相信</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">韩国音乐</span></div></li>
 <li><h1 class="time-line-title"><a href="../music/korea/1040065.html" target="_blank">严正花-都走吧</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">韩国音乐</span></div></li>
 <li><h1 class="time-line-title"><a href="../music/korea/1040066.html" target="_blank">玉珠铉-仲夏夜之梦</a></h1><div class="time-line-mate"><time datetime="2025-02-14 00:00:00 +0800" class="post-list__meta--date date">2025-02-14</time> &#8226; <span class="post-list__meta--tags tags">韩国音乐</span></div></li>
-
-
-       
+ 
     <!--文件目录结束-->
   </ol>
-
-
-
-
-    <hr>
+<hr>
