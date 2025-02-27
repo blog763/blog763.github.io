@@ -1,7 +1,9 @@
 source "https://rubygems.org"
 
 # if you are using other than GitHub Pages,
-#gem "jekyll", "~> 3.9.0", group: :jekyll_plugins
+gem "jekyll", "~> 4.4.1", group: :jekyll_plugins
+
+gem "faraday-retry", "~> 2.0.0"
 
 # If you have any plugins, put them here!
 # group :jekyll_plugins do
@@ -26,5 +28,3 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 
 # HTTP server for local tests
 gem "webrick", "~> 1.7"
-
-end
